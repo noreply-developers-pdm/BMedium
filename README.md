@@ -25,3 +25,5 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 - Head over to localhost:8000 in your browser.
+
+nlmkm
